@@ -1,3 +1,27 @@
-# Task Manager App
+# Task Management Application
 
-The **Task Manager App** is a simple, intuitive, and efficient tool designed to help you organize, prioritize, and manage your tasks with ease. Whether you're juggling personal to-dos or professional projects, this app provides a clean and user-friendly interface to create, track, and complete tasks. With features like due dates, priority levels, and task categorization, staying on top of your responsibilities has never been easier. Perfect for individuals or teams, the Task Manager App is your go-to solution for boosting productivity and achieving your goals.
+## Overview  
+I built a simple and efficient task management application focused on core functionality and ease of use. The app provides a clean dashboard that displays tasks categorized into **upcoming, overdue, and completed** sections.  
+
+## 🚀 Features  
+
+### 📝 Task Management  
+- Add, edit, and delete tasks.  
+- Each task includes a **title, description, due date, and priority level**.  
+
+### 🔥 Priority System  
+- Tasks can be marked as **High, Medium, or Low priority**.  
+- Users can update the priority of tasks at any time.  
+
+### 🔍 Search & Filters  
+- Quickly find tasks using a **search** feature.  
+- Filter tasks based on **priority** and **completion status**.  
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** Built using **Vanilla JavaScript** for simplicity and performance.  
+- **Data Storage:** Utilized **localStorage** to persist task data, ensuring that tasks remain available even after a page refresh.  
+- **User Interface:** Designed a **minimalistic and intuitive UI** for a seamless user experience.  
+
+## 📌 Goal  
+The focus was on delivering a **functional, lightweight task manager** without unnecessary complexity.  
