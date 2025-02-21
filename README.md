@@ -1,4 +1,4 @@
-# Task Management Application
+# Task Manager
 
 ## Overview  
 I built a simple and efficient task management application focused on core functionality and ease of use. The app provides a clean dashboard that displays tasks categorized into **upcoming, overdue, and completed** sections.  
